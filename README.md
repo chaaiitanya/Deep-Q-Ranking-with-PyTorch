@@ -27,7 +27,7 @@ To set up the project, follow these steps:
 1. **Clone the Repository:**
    ```
    git clone https://github.com/chaaiitanya/Deep-Q-Ranking-with-PyTorch.git
-   cd deep-q-rank
+   cd Deep-Q-Ranking-with-PyTorch
    ```
 
 2. **Install Dependencies:**
