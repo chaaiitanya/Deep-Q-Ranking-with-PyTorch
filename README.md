@@ -1,6 +1,3 @@
-Here's a detailed README file for the DeepQRank project to be hosted on GitHub:
-
-
 # DeepQRank: Generating Search Engine Rankings with Deep Reinforcement Learning
 
 ## Overview
